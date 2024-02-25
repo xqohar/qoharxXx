@@ -220,7 +220,7 @@ function pgrep($name) {
 
 
 ## Final Line to set prompt
-oh-my-posh init pwsh --config 'C:\Users\xNoMercYx\Documents\WindowsPowerShell\xNoMercYx.omp.json' | Invoke-Expression
+oh-my-posh init pwsh --config 'C:\Users\xNoMercYx\Documents\WindowsPowerShell\xqoharx.omp.json' | Invoke-Expression
 
 # Import the Chocolatey Profile that contains the necessary code to enable
 # tab-completions to function for `choco`.
